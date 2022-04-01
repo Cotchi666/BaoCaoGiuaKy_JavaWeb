@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-body>
+	<dienthoais>
+		<dienthoai>
+			<name>iphone13 ProMax</name>
+			<price>1000$</price>
+		</dienthoai>
+
+		<dienthoai>
+			<name>iphone22 proMaxMax</name>
+			<price>2000$</price>
+		</dienthoai>
+		<dienthoai>
+			<name>iphone25 proMaxMax1</name>
+			<price>2500$</price>
+		</dienthoai>
+		<dienthoai>
+			<name>iphone2 proMaxMax555</name>
+			<price>200$</price>
+		</dienthoai>
+	</dienthoais>
+</xml-body>
